@@ -2,4 +2,26 @@ h1 {
     color: blue;
     font: bolder;
     font-style: italic;
+    text-align: center;
+}
+
+#second_heading {
+    color: rgb(197, 24, 160);
+    font-style: oblique;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
 }
